@@ -26,7 +26,7 @@ In this project a list of the most recent and relevant tweets related to crypto 
 
 ## Conclusion
 
-The goal of the study is to ascertain how people feel about cryptocurrencies on Twitter, with a focus on bitcoin, Ethereum, and crypto trading in particular. 
+The goal of the study is to ascertain how people feel about cryptocurrencies on Twitter, with a focus on bitcoin, Ethereum, and crypto trading in particular
 The following are the main question evaluated in the project:-
 What are people's thoughts on, say, cryptocurrency and blockchain technology?
  What are the most important Crypto and Blockchain-related product categories?
